@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+D:/Project/PicoProject/sr04/build/CMakeFiles/ELF2UF2Build
+D:/Project/PicoProject/sr04/build/CMakeFiles/ELF2UF2Build.rule
+D:/Project/PicoProject/sr04/build/CMakeFiles/ELF2UF2Build-complete.rule
+D:/Project/PicoProject/sr04/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+D:/Project/PicoProject/sr04/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+D:/Project/PicoProject/sr04/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+D:/Project/PicoProject/sr04/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
+D:/Project/PicoProject/sr04/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+D:/Project/PicoProject/sr04/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+D:/Project/PicoProject/sr04/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule

@@ -1,0 +1,37 @@
+The system is: Windows - 10.0.19044 - AMD64
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/VC/Tools/MSVC/14.29.30037/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x86
+Copyright (C) Microsoft Corporation.  著作權所有，並保留一切權利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.29.30040.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/Project/PicoProject/sr04/build/pioasm/CMakeFiles/3.19.3/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/Project/PicoProject/sr04/build/pioasm/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_dddac\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_dddac.dir\build.make /nologo -L                  CMakeFiles\cmTC_dddac.dir\build
+Building CXX object CMakeFiles/cmTC_dddac.dir/CMakeCXXCompilerABI.cpp.obj
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30037\bin\Hostx86\x86\cl.exe" @C:\Users\dell\AppData\Local\Temp\nmFCFD.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_dddac.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_dddac.dir --rc="C:\PROGRA~2\Windows Kits\10\bin\10.0.19041.0\x86\rc.exe" --mt="C:\PROGRA~2\Windows Kits\10\bin\10.0.19041.0\x86\mt.exe" --manifests -- "C:\PROGRA~2\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30037\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_dddac.dir\objects1.rsp @C:\Users\dell\AppData\Local\Temp\nmFD7B.tmp
+
+
+
