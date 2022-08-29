@@ -37,7 +37,7 @@ uint64_t sr04_sonic::getPulse(int trigPin,int echoPin)
 uint64_t sr04_sonic::getCM()
 {
     uint64_t pulseLength = getPulse(this->trigPin,this->echoPin);
-    return pulseLength /58; 
+    return pulseLength /29.1/2; //or multiply by 0.0343
 }
 
 uint64_t sr04_sonic::getINCH()
